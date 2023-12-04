@@ -1,0 +1,8 @@
+#Rule 1
+
+User-agent: *
+Disallow: ./thank-you.php
+Disallow: ./form-submit-failed.php
+
+Noindex: ./thank-you.php
+Noindex: ./form-submit-failed.php
